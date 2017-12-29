@@ -1,0 +1,21 @@
+{
+  "name": "rocket-shop",
+  "version": "1.0.0",
+  "description": "A crod sourced project to put people on mars",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "moment": "^2.20.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0",
+    "sinon": "^4.1.3"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "author": "tommykronstal",
+  "license": "ISC"
+}
